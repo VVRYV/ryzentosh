@@ -1,0 +1,2 @@
+# ignore all *.md[s] to make it even more lightweight.
+*.md
